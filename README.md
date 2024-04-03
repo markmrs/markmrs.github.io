@@ -3,7 +3,7 @@
 * ## General finance
 * ## Trading strategies
 
-# Misc lecture notes
+# Notes
 * [Probability and Statistics](https://github.com/markmrs/markmrs.github.io/blob/main/Notes/prob.pdf)
 * [A summary of Introduction to Statistical Learning](https://github.com/markmrs/markmrs.github.io/blob/main/Notes/data.pdf)
 
