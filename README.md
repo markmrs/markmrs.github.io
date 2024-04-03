@@ -4,10 +4,10 @@
 * ## [Modern Portfolio Theory](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/mpt.ipynb)
   Given a number of stocks, we simulate a number of portfolios, compute the efficient frontier, maximum Sharpe portfolio, minimum variance portfolio and capital market line.
 * ## Trading strategies
-  * Classification strategy 
-  * Simple Moving Average strategy
-  * Momentum strategy
-  * MACD strategy
+  * [Classification strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/classification_strategies.ipynb)
+  * [Simple Moving Average strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/SMA_strategy.ipynb)
+  * [Momentum strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/momentum_strategy_sp500.ipynb)
+  * [MACD strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/macd.ipynb)
 
 # Notes
 * [Probability and Statistics](https://github.com/markmrs/markmrs.github.io/blob/main/Notes/prob.pdf)
