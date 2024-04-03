@@ -4,6 +4,7 @@
 * ## [Modern Portfolio Theory](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/mpt.ipynb)
   Given a number of stocks, we simulate a number of portfolios, compute the efficient frontier, maximum Sharpe portfolio, minimum variance portfolio and capital market line.
 * ## Trading strategies
+  * Simple Moving Average strategy 
 
 # Notes
 * [Probability and Statistics](https://github.com/markmrs/markmrs.github.io/blob/main/Notes/prob.pdf)
