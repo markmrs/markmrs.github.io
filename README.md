@@ -5,5 +5,5 @@
 
 # Misc lecture notes
 # Master's talks
-* Étale \phi
+* Étale $\phi$
 # Master's thesis
