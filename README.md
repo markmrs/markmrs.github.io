@@ -1,5 +1,6 @@
 # Projects
 * ## Mortality data
+  In this project we analyze the mortality data from the Italian National Institute of Statistics (ISTAT). First we clean up and reorganize the daily mortality records; then we fit models to estimate the excess mortality in years 2020-2021, and plot the results for different regions and age classes.
 * ## General finance
 * ## Trading strategies
 
