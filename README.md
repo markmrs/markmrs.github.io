@@ -1,6 +1,6 @@
 # Projects
 * ## [Mortality data](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/covid.ipynb)
-  In this project we analyze the mortality data from the Italian National Institute of Statistics (ISTAT). First we clean up and reorganize the daily mortality records; then we fit models to estimate the excess mortality in years 2020-2021, and plot the results for different regions and age classes.
+  We analyze the mortality data from the Italian National Institute of Statistics (ISTAT). First we clean up and reorganize the daily mortality records; then we fit models to estimate the excess mortality in years 2020-2021, and plot the results for different regions and age classes.
 * ## [Modern Portfolio Theory](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/mpt.ipynb)
   Given a number of stocks, we simulate a number of portfolios, compute the efficient frontier, maximum Sharpe portfolio, minimum variance portfolio and capital market line.
 * ## Trading strategies
