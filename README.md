@@ -5,4 +5,5 @@
 
 # Misc lecture notes
 # Master's talks
+* Étale \phi
 # Master's thesis
