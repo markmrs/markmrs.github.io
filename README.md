@@ -28,4 +28,4 @@
 # Bachelor's thesis
 * [Purity and algebraic compactness for abelian groups (in Italian)](https://github.com/markmrs/markmrs.github.io/blob/main/Bachelors/tesi.pdf)
 * [Slides (in Italian)](https://github.com/markmrs/markmrs.github.io/blob/main/Bachelors/beamer_tesi.pdf)
-* <a href="https://github.com/markmrs/markmrs.github.io/blob/main/Bachelors/beamer_tesi.pdf" target="_blank">test</a>
+<a href="https://github.com/markmrs/markmrs.github.io/blob/main/Bachelors/beamer_tesi.pdf" target="_blank">test</a>
