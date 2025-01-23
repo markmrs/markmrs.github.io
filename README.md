@@ -23,4 +23,8 @@
 
 # Master's thesis
 * [Duality theorems and Kolyvagin systems for elliptic curves](https://github.com/markmrs/markmrs.github.io/blob/main/Masters/masterthesis.pdf)
-* [Beamer talk](https://github.com/markmrs/markmrs.github.io/blob/main/Masters/beamerthesis.pdf)
+* [Slides](https://github.com/markmrs/markmrs.github.io/blob/main/Masters/beamerthesis.pdf)
+
+# Bachelor's thesis
+* [Purity and algebraic compactness for abelian groups (in Italian)](https://github.com/markmrs/markmrs.github.io/blob/main/Bachelors/tesi.pdf)
+* [Slides (in Italian)](https://github.com/markmrs/markmrs.github.io/blob/main/Bachelors/beamer_tesi.pdf)
