@@ -4,7 +4,7 @@
 * ## [Modern Portfolio Theory](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/mpt.ipynb)
   Given a number of stocks, we simulate a number of portfolios, compute the efficient frontier, maximum Sharpe portfolio, minimum variance portfolio and capital market line.
 * ## [Algotrading Pattern Recognition](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/technical_analysis.ipynb)
-* This code implements methods to detect support and resistance levels in a stock price series, and a method to detect Head and Shoulders patterns. I started it with the intention of carrying out statistical tests to check whether traditional “Technical Analysis” methods, when defined algorithmically, are able to provide significantly higher returns.
+This code implements methods to detect support and resistance levels in a stock price series, and a method to detect Head and Shoulders patterns. I started it with the intention of carrying out statistical tests to check whether traditional “Technical Analysis” methods, when defined algorithmically, are able to provide significantly higher returns.
 * ## Trading strategies
   * [Classification strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/classification_strategies.ipynb)
   * [Simple Moving Average strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/SMA_strategy.ipynb)
