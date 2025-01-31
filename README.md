@@ -6,10 +6,10 @@
 * ## [Algotrading Pattern Recognition](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/technical_analysis.ipynb)
   This code implements methods to detect support and resistance levels in a stock price series, and a method to detect Head and Shoulders patterns. I started it with the intention of carrying out statistical tests to check whether traditional “Technical Analysis” methods, when defined algorithmically, are able to provide significantly higher returns.
 * ## Trading strategies
-  * [Classification strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/classification_strategies.ipynb)
-  * [Simple Moving Average strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/SMA_strategy.ipynb)
-  * [Momentum strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/momentum_strategy_sp500.ipynb)
-  * [MACD strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/macd.ipynb)
+  * [Classification strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/Strategies/classification_strategies.ipynb)
+  * [Simple Moving Average strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/Strategies/SMA_strategy.ipynb)
+  * [Momentum strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/Strategies/momentum_strategy_sp500.ipynb)
+  * [MACD strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/Strategies/macd.ipynb)
 
 # Notes
 * [Probability and Statistics](https://github.com/markmrs/markmrs.github.io/blob/main/Notes/prob.pdf)
