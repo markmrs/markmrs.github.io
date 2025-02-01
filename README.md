@@ -5,6 +5,8 @@
   Given a number of stocks, we simulate a number of portfolios, compute the efficient frontier, maximum Sharpe portfolio, minimum variance portfolio and capital market line.
 * ## [Algotrading Pattern Recognition](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/technical_analysis.ipynb)
   This code implements methods to detect support and resistance levels in a stock price series, and a method to detect Head and Shoulders patterns. I started it with the intention of carrying out statistical tests to check whether traditional “Technical Analysis” methods, when defined algorithmically, are able to provide significantly higher returns.
+* ## [Recursive Neural Networks](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/RNN/main.ipynb)
+  A couple simple RNN models to predict stock or crypto time series; strategies are evaluated and compared with a linear regression and a trivial model (predict previous day’s price). Mainly an exercise in using Keras and processing data for use with RNNs.
 * ## Trading strategies
   * [Classification strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/Strategies/classification_strategies.ipynb)
   * [Simple Moving Average strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/Strategies/SMA_strategy.ipynb)
