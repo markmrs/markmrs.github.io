@@ -16,7 +16,7 @@
 
 
 # Notes
-Some Latex notes I've put together mainly for my personal studying.
+Some Latex notes I've put together mainly for my personal studying, aggregating and reworking information from different books and sources.
 * [Probability and Statistics](https://github.com/markmrs/markmrs.github.io/blob/main/Notes/prob.pdf)
 * [A summary of Introduction to Statistical Learning](https://github.com/markmrs/markmrs.github.io/blob/main/Notes/data.pdf)
 
