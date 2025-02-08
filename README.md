@@ -7,13 +7,16 @@
   A couple simple RNN models to predict stock or crypto time series; strategies are evaluated and compared with a linear regression and a trivial model (predict previous day’s price). Mainly an exercise in using Keras and processing data for use with RNNs.
 * ## [Algotrading Pattern Recognition](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/technical_analysis.ipynb)
   This code implements methods to detect support and resistance levels in a stock price series, and a method to detect Head and Shoulders patterns. I started it with the intention of carrying out statistical tests to check whether traditional “Technical Analysis” methods, when defined algorithmically, are able to provide significantly higher returns.
-%* ## Trading strategies
-%  * [Classification strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/Strategies/classification_strategies.ipynb)
-%  * [Simple Moving Average strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/Strategies/SMA_strategy.ipynb)
-%  * [Momentum strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/Strategies/momentum_strategy_sp500.ipynb)
-%  * [MACD strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/Strategies/macd.ipynb)
+  
+<!-- + * ## Trading strategies +-->
+<!-- + * [Classification strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/Strategies/classification_strategies.ipynb) +-->
+<!-- + * [Simple Moving Average strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/Strategies/SMA_strategy.ipynb) +-->
+<!-- + * [Momentum strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/Strategies/momentum_strategy_sp500.ipynb) +-->
+<!-- + * [MACD strategy](https://github.com/markmrs/markmrs.github.io/blob/main/Projects/Strategies/macd.ipynb) +-->
+
 
 # Notes
+Some Latex notes I've put together mainly for my personal studying.
 * [Probability and Statistics](https://github.com/markmrs/markmrs.github.io/blob/main/Notes/prob.pdf)
 * [A summary of Introduction to Statistical Learning](https://github.com/markmrs/markmrs.github.io/blob/main/Notes/data.pdf)
 
